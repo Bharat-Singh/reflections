@@ -1,0 +1,5 @@
+if we accidently made any mistakes in our code then we can compare it with the previous versions and rectify our mistakes by using version controls.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+easy access to the entire history of the file makes it easy to compare new codes with the previous ones and in case we made any typo then we can correct it by comparing it with the previous versions and then correct it.
