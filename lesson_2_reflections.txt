@@ -15,4 +15,11 @@ How is the staging area different from the working directory and the repository?
 
 git actually allows us more flexibilities to make commits our own way by using a staging area where we can manually decide that which changes should be committed instead of writing whole bunch of commits for every file.
 
-staging area 
+**What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+if we want to make an experiments with our projects without actually making changes in our original code branches help a lot.
+for this make an extra branch and shift to that branch without affecting the master branch.
+
+**How do the diagrams help you visualize the branch structure?
+
+with the help of the diagram we can actually visulize the whole commits in the branch and can see which commit was made in which branch.
