@@ -1,0 +1,18 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+a file with .git is generated
+
+we need it becoz
+
+Git is a version control system. It's useful for a number of reasons:
+
+    It stores old versions of files, so you can always look up old versions. This also removes the need to leave useless code commented out and getting in the way.
+    It makes it easy to share code with other people (they can "clone" your repository and work on it, and then share the changes back with you).
+    You can get free hosting for your project, so you can access the code anywhere.
+    Since you have old versions available, you can mess around with the code as much as you want, safe in the knowledge that you can "revert" back to a previous version instantly if you change your mind.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+git actually allows us more flexibilities to make commits our own way by using a staging area where we can manually decide that which changes should be committed instead of writing whole bunch of commits for every file.
+
+staging area 
